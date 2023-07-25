@@ -1,6 +1,6 @@
 import hashlib
 
-name = 'Гимранов Артур Маратович'
+name = 'Андреев Аркадий Сергеевич'
 
 systems = [
     'debian:10.1',
