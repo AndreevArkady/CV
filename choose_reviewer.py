@@ -1,6 +1,6 @@
 import hashlib
 
-name = 'Gimranov Artur'
+name = 'Arkady Andreev'
 
 reviewers = [
     'lodthe',
